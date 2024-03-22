@@ -14,4 +14,4 @@ Le code doit être indenté et commenté si besoin
 
 Résultat attendu
 ![Expose](profile/img/expose-pc.jpg)&nbsp;&nbsp;
-![Expose](profile/img/expose-TABLETTE.jpg)&nbsp;&nbsp;
+![Expose](profile/img/expose-tablette.jpg)&nbsp;&nbsp;

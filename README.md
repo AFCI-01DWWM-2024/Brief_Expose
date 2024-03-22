@@ -15,6 +15,5 @@ Le code doit être indenté et commenté si besoin
 Résultat attendu : Format PC
 ![Expose](profile/img/expose-pc.jpg)&nbsp;&nbsp;
 
-
-Résultat attendu : Format tablette
+Résultat attendu : Format tablette <br>
 ![Expose](profile/img/expose-tablette.jpg)&nbsp;&nbsp;

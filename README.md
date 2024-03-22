@@ -13,7 +13,6 @@ The code must be indented and commented if necessary
 
 
 Expected result : PC format
-
 ![Expose](profile/img/expose-pc.jpg)&nbsp;&nbsp;
 
 Expected result : Tablet format <br>

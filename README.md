@@ -1,6 +1,6 @@
 ## ECF INTÉGRATION WEB : EXPOSE
 Web integration in HTML AND CSS of the EXPOSE model<br>
-Web integration 2 formats: 
+Web integration 2 formats: <br>
 Vous pouvez faire l'intégration Web en Less ou en CSS (A vous de voir)  
 Partage Figma envoyé
 
